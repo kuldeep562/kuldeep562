@@ -20,7 +20,7 @@ I specialize in Emotion AI, Natural Language Processing, and Human-Centered Mach
 ### 🚀 Featured Projects
 
 #### 🎙️ **Speech Emotion Recognition**  
-**Duration:** Mar 2024 – Jul 2024  
+ 
 **Overview:**  
 A deep learning system that detects and classifies human emotions from voice data using features like pitch, tone, and speech rate. Applications include human-computer interaction, customer support, and mental health tech.
 
@@ -32,7 +32,7 @@ SVM, MFCCs, Feature Extraction, Model Evaluation, Audio Preprocessing
 ---
 
 #### 💬 **Sentiment Analysis of Product Reviews**  
-**Duration:** Jul 2023 – Jan 2024  
+ 
 **Overview:**  
 A Natural Language Processing (NLP) pipeline that classifies sentiment in customer reviews to assess product perception. Used bag-of-words and text vectorization techniques for emotional tone recognition.
 
@@ -44,7 +44,7 @@ NLP, Text Classification, Sentiment Scoring, Data Cleaning, Model Evaluation
 ---
 
 #### 🧠 **NLP to SQL Generator**  
-**Duration:** Apr 2025 – Present  
+ 
 **Overview:**  
 A full-stack AI application that translates natural language prompts into executable SQL queries using LLaMA 3. It intelligently maps queries to your MySQL schema using semantic similarity techniques, enabling seamless interaction between humans and databases.
 
