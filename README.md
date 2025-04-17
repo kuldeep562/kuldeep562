@@ -43,6 +43,18 @@ NLP, Text Classification, Sentiment Scoring, Data Cleaning, Model Evaluation
 
 ---
 
+#### 🧠 **NLP to SQL Generator**  
+**Duration:** Apr 2025 – Present  
+**Overview:**  
+A full-stack AI application that translates natural language prompts into executable SQL queries using LLaMA 3. It intelligently maps queries to your MySQL schema using semantic similarity techniques, enabling seamless interaction between humans and databases.
+
+**Key Technologies:**  
+LLaMA 3, spaCy, fuzzywuzzy, FastAPI, Gradio, MySQL
+
+> _Bridging language and data — enabling non-technical users to query structured information effortlessly._
+
+---
+
 ### 🧪 Currently Exploring
 
 - Emotion AI & speech-driven affective computing  
