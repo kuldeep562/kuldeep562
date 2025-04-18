@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kuldeep-solanki-298614276/" target="_blank">LinkedIn</a> •
   <a href="mailto:solanki.kuldeep@icloud.com">Email</a> •
-  <a href="https://github.com/kuldeep-solanki?tab=repositories">GitHub Projects</a>
 </p>
 
 ---
