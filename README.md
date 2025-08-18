@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kuldeep-solanki-298614276/" target="_blank">LinkedIn</a> •
   <a href="mailto:solanki.kuldeep@icloud.com">Email</a> •
-  <a href="Kuldeep_CV.pdf" target="_blank">Download CV</a>
+  <a href="Kuldeep solanki cv.pdf" target="_blank">Download CV</a>
 </p>
 
 ---
