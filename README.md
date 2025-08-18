@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kuldeep-solanki-298614276/" target="_blank">LinkedIn</a> •
   <a href="mailto:solanki.kuldeep@icloud.com">Email</a> •
-  <a href="https://github.com/kuldeep562/kuldeep562/raw/main/kuldeep_solanki_cv.pdf" target="_blank"> CV</a>
+  <a href="https://github.com/kuldeep562/kuldeep562/raw/main/kuldeep_solanki_cv.pdf" target="_blank">CV</a>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ### 🧠 About Me
 
 I’m an AI/ML engineer passionate about turning **complex AI research into real-world, production-ready systems**.  
-I specialize in **Computer Vision, NLP, Emotion AI, and Human-Centered Machine Learning** with a focus on **impactful applications in healthcare, edtech, and social good**.
+I specialize in **Computer Vision, NLP, Emotion AI, and Human-Centered Machine Learning** with a focus on **impactful applications in healthcare, edtech, and social good**.  
 
 Currently, I’m working on **AI systems that integrate LLMs, computer vision models, and speech technologies** for practical, high-scale solutions.
 
@@ -20,11 +20,11 @@ Currently, I’m working on **AI systems that integrate LLMs, computer vision mo
 
 ### 🚀 What I’m Building
 
-- **LLM & GenAI Pipelines:** Fine-tuning, prompt engineering, and production deployment  
-- **Emotion AI & Speech Analytics:** Multilingual STT, sentiment analysis, affective computing  
-- **Computer Vision Systems:** Object detection, medical imaging, OCR automation  
-- **MLOps & Deployment:** Scalable pipelines, API integration, edge devices, latency optimization  
-- **Responsible AI:** Fairness, transparency, and ethical model deployment  
+- 🤖 **LLM & GenAI Pipelines:** Fine-tuning, prompt engineering, production deployment  
+- 😃 **Emotion AI & Speech Analytics:** Multilingual STT, sentiment analysis, affective computing  
+- 🖼️ **Computer Vision Systems:** Object detection, medical imaging, OCR automation  
+- ⚙️ **MLOps & Deployment:** Scalable pipelines, API integration, edge devices, latency optimization  
+- 🌱 **Responsible AI:** Fairness, transparency, and ethical model deployment  
 
 > 💡 *Learning, building, and iterating to make AI practical and impactful.*
 
@@ -32,11 +32,11 @@ Currently, I’m working on **AI systems that integrate LLMs, computer vision mo
 
 ### 💻 Real-World Experience Highlights
 
-- Processed **24,000+ images** and messy real-world datasets  
-- Built **robust pipelines** and optimized model inference for speed and resource efficiency  
-- Deployed AI solutions via **APIs, web UIs, and edge devices**  
-- Wrote **production-ready, testable code** with scalability in mind  
-- Collaborated with **cross-functional teams** to turn research prototypes into products  
+- 🗂️ Processed **24,000+ images** and messy real-world datasets  
+- 🛠️ Built **robust pipelines** and optimized model inference for speed and resource efficiency  
+- 🌐 Deployed AI solutions via **APIs, web UIs, and edge devices**  
+- ✅ Wrote **production-ready, testable code** with scalability in mind  
+- 🤝 Collaborated with **cross-functional teams** to turn research prototypes into products  
 
 ---
 
@@ -58,25 +58,36 @@ Currently, I’m working on **AI systems that integrate LLMs, computer vision mo
 | **OCR Lab Automation** | OpenCV, Python | Automates extraction of lab reports from images |
 | **Speech-to-Text + Summary Generator** | Whisper, NLP | Multilingual transcription with real-time summarization |
 
+> 🎬 *GIFs or screenshots of projects can be added here for animation & visual impact.*
+
 ---
 
 ### 🧾 Explore My GitHub
 
-- 📌 AI tools improving human-machine interaction  
-- ⚙️ End-to-end ML systems: data ingestion → modeling → deployment  
-- 📊 Applied NLP models with custom datasets  
-- 📈 Notebooks explaining the "why" behind models and experiments  
+- 📌 AI tools improving **human-machine interaction**  
+- ⚙️ End-to-end **ML systems**: data ingestion → modeling → deployment  
+- 📊 Applied **NLP models** with custom datasets  
+- 📈 Notebooks explaining the "**why**" behind models and experiments  
 
 ---
 
 ### 📫 Connect & Collaborate
 
 Open to **research, AI/ML projects, and production-level challenges**.  
-Let’s build solutions with **real impact**.
+Let’s build solutions with **real-world impact**.  
 
 📍 India | 🌐 Remote-friendly  
 ✉️ solanki.kuldeep@icloud.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/kuldeep-solanki-298614276/)
+
+---
+
+### 🔰 Badges (Light/Dark Mode Friendly)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EF3D24?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FEEB37?style=for-the-badge&logo=huggingface&logoColor=black)  
 
 ---
 
