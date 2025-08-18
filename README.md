@@ -2,10 +2,6 @@
 <h3 align="center">AI/ML Engineer | M.Sc. in AI & Machine Learning | Building AI that Matters</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="AI GIF" width="300"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/kuldeep-solanki-298614276/" target="_blank">LinkedIn</a> •
   <a href="mailto:solanki.kuldeep@icloud.com">Email</a> •
   <a href="https://github.com/kuldeep562/kuldeep562/raw/main/kuldeep_solanki_cv.pdf" target="_blank">CV</a>
