@@ -58,8 +58,6 @@ Currently, I’m working on **AI systems that integrate LLMs, computer vision mo
 | **OCR Lab Automation** | OpenCV, Python | Automates extraction of lab reports from images |
 | **Speech-to-Text + Summary Generator** | Whisper, NLP | Multilingual transcription with real-time summarization |
 
-> 🎬 *GIFs or screenshots of projects can be added here for animation & visual impact.*
-
 ---
 
 ### 🧾 Explore My GitHub
