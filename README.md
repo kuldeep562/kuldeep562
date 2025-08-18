@@ -3,14 +3,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kuldeep-solanki-298614276/" target="_blank">LinkedIn</a> •
-  <a href="mailto:solanki.kuldeep@icloud.com">Email</a>
+  <a href="mailto:solanki.kuldeep@icloud.com">Email</a> •
+  📄 <a href="Kuldeep_CV.pdf" target="_blank">Download CV</a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I’m an AI/ML engineer passionate about building intelligent systems that solve real-world problems responsibly. With a Master’s degree in Artificial Intelligence & Machine Learning, I specialize in **Emotion AI**, **Natural Language Processing**, and **Human-Centered Machine Learning**.
+I’m an AI/ML engineer passionate about building intelligent systems that solve real-world problems responsibly. With a Master’s degree in Artificial Intelligence & Machine Learning, I specialize in **Computer Vision**, **Natural Language Processing (NLP)**, **Emotion AI**, and **Human-Centered Machine Learning**.
 
 Currently, I work as an **AI/ML Engineer**, bridging the gap between AI theory and practical, production-ready solutions.
 
@@ -23,6 +24,7 @@ Currently, I work as an **AI/ML Engineer**, bridging the gap between AI theory a
 - MLOps pipelines for scalable, production-grade ML systems  
 - Ethical AI: fairness, transparency, and responsible deployment  
 - AI applications in healthcare, edtech, and other socially impactful domains  
+- Applied NLP: text classification, entity recognition, sentiment analysis, summarization  
 
 > 💡 *Always learning. Always building. Always aiming for impact.*
 
@@ -30,7 +32,7 @@ Currently, I work as an **AI/ML Engineer**, bridging the gap between AI theory a
 
 ### 🚀 Real-World AI Experience
 
-Transitioned from AI theory to real-world implementation during my internship and current role:
+Transitioned from AI theory to real-world implementation during internship and current role:
 
 - Handled **large-scale, messy datasets**: cleaning, normalization, annotation (24,000+ medical images)  
 - Built **robust data pipelines** and optimized model inference for latency and resource efficiency  
@@ -40,7 +42,7 @@ Transitioned from AI theory to real-world implementation during my internship an
 
 ---
 
-### 💡 What I’ve Learned
+### 💡 Key Learnings
 
 1️⃣ **Data is Everything** – Quality datasets make or break AI solutions.  
 2️⃣ **Models are engines; products are vehicles** – Building pipelines and integrations is as important as training models.  
@@ -55,7 +57,8 @@ Transitioned from AI theory to real-world implementation during my internship an
 
 - **Machine Learning & Deep Learning**: Model design, training, optimization, deployment  
 - **Data Engineering**: Cleaning, preprocessing, feature engineering, large dataset handling  
-- **NLP & Emotion AI**: Text and speech processing, sentiment & affective computing  
+- **NLP & Emotion AI**: Text and speech processing, sentiment & affective computing, LLM applications  
+- **Computer Vision**: Image classification, object detection, medical imaging applications  
 - **MLOps & Production AI**: Pipelines, APIs, latency optimization, edge deployment  
 - **Collaboration & Agile Development**: Cross-functional teamwork, code reviews, iterative development  
 
