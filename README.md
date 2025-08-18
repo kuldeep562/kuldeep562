@@ -32,7 +32,7 @@ Currently, I’m working on **AI systems that integrate LLMs, computer vision mo
 
 ### 💻 Real-World Experience Highlights
 
-- Processed **24,000+ medical images** and messy real-world datasets  
+- Processed **24,000+ images** and messy real-world datasets  
 - Built **robust pipelines** and optimized model inference for speed and resource efficiency  
 - Deployed AI solutions via **APIs, web UIs, and edge devices**  
 - Wrote **production-ready, testable code** with scalability in mind  
@@ -44,7 +44,7 @@ Currently, I’m working on **AI systems that integrate LLMs, computer vision mo
 
 **Languages & Frameworks:** Python, SQL, C++, TensorFlow, PyTorch, FastAPI  
 **Libraries & Tools:** Hugging Face, LangChain, OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Docker, ONNX  
-**Models & Platforms:** LLaMA, Mistral, XLM-R, Faster-Whisper, YOLO, MMDetection  
+**Models & Platforms:** LLaMA, Mistral, XLM-R, Whisper, YOLO, MMDetection  
 **Deployment & DevOps:** Docker, Hugging Face Spaces, Raspberry Pi, Cloud APIs  
 
 ---
@@ -56,7 +56,7 @@ Currently, I’m working on **AI systems that integrate LLMs, computer vision mo
 | **YOLO Edge Deployment** | PyTorch, ONNX | Lightweight detection models optimized for low-resource devices |
 | **NLP-to-SQL Translator** | Python, LangChain | Converts natural language queries into database commands |
 | **OCR Lab Automation** | OpenCV, Python | Automates extraction of lab reports from images |
-| **Speech-to-Text + Summary Generator** | Faster-Whisper, NLP | Multilingual transcription with real-time summarization |
+| **Speech-to-Text + Summary Generator** | Whisper, NLP | Multilingual transcription with real-time summarization |
 
 ---
 
