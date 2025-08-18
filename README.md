@@ -12,7 +12,7 @@
 ### 🧠 About Me
 
 I’m an AI/ML engineer passionate about turning **complex AI research into real-world, production-ready systems**.  
-I specialize in **Computer Vision, NLP, Emotion AI, and Human-Centered Machine Learning** — with a focus on **impactful applications in healthcare, edtech, and social good**.
+I specialize in **Computer Vision, NLP, Emotion AI, and Human-Centered Machine Learning** with a focus on **impactful applications in healthcare, edtech, and social good**.
 
 Currently, I’m working on **AI systems that integrate LLMs, computer vision models, and speech technologies** for practical, high-scale solutions.
 
