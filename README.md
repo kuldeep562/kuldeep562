@@ -32,7 +32,7 @@ Currently, I’m working on **AI systems that integrate LLMs, computer vision mo
 
 ### 💻 Real-World Experience Highlights
 
-- 🗂️ Processed **24,000+ images** and messy real-world datasets  
+- 🗂️ Processed **Thousands of images** and messy real-world datasets  
 - 🛠️ Built **robust pipelines** and optimized model inference for speed and resource efficiency  
 - 🌐 Deployed AI solutions via **APIs, web UIs, and edge devices**  
 - ✅ Wrote **production-ready, testable code** with scalability in mind  
