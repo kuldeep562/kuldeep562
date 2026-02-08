@@ -1,84 +1,120 @@
-<h1 align="center">Hey there, I'm Kuldeep Solanki 👋</h1>
-<h3 align="center">AI/ML Engineer | M.Sc. in AI & Machine Learning | Building AI that Matters</h3>
+<h1 align="center">Kuldeep Solanki</h1>
+<h3 align="center">
+AI/ML Engineer | Edge Computer Vision • Healthcare Systems • Applied LLMs
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kuldeep-solanki-298614276/" target="_blank">LinkedIn</a> •
-  <a href="mailto:solanki.kuldeep@icloud.com">Email</a> •
+  <a href="https://www.linkedin.com/in/kuldeep-solanki-298614276/" target="_blank">LinkedIn</a> |
+  <a href="mailto:kuldeepsolanki039@gmail.com">Email</a> |
   <a href="https://github.com/kuldeep562/kuldeep562/raw/main/kuldeep_solanki_cv.pdf" target="_blank">CV</a>
 </p>
 
 ---
 
-### 🧠 About Me
+## Professional Summary
 
-I’m an AI/ML engineer passionate about turning **complex AI research into real-world, production-ready systems**.  
-I specialize in **Computer Vision, NLP, Emotion AI, and Human-Centered Machine Learning** with a focus on **impactful applications in healthcare, edtech, and social good**.  
+I am an **AI/ML Engineer** with hands-on experience designing and deploying **production-grade AI systems** in **healthcare and edge environments**. My work focuses on transforming research prototypes into **reliable, scalable, and performance-optimized solutions** used in real-world clinical and laboratory workflows.
 
-Currently, I’m working on **AI systems that integrate LLMs, computer vision models, and speech technologies** for practical, high-scale solutions.
+My core expertise spans:
+- **Edge Computer Vision and Detection Systems**
+- **Healthcare Laboratory Information Systems (LIS)**
+- **LLM-powered NLP and Speech Applications**
 
----
-
-### 🚀 What I’m Building
-
-- 🤖 **LLM & GenAI Pipelines:** Fine-tuning, prompt engineering, production deployment  
-- 😃 **Emotion AI & Speech Analytics:** Multilingual STT, sentiment analysis, affective computing  
-- 🖼️ **Computer Vision Systems:** Object detection, medical imaging, OCR automation  
-- ⚙️ **MLOps & Deployment:** Scalable pipelines, API integration, edge devices, latency optimization  
-- 🌱 **Responsible AI:** Fairness, transparency, and ethical model deployment  
-
-> 💡 *Learning, building, and iterating to make AI practical and impactful.*
+Currently, I work at **Artem HealthTech**, contributing to AI systems actively used in **live hospital and laboratory environments**, with an emphasis on performance, system integration, and deployment reliability.
 
 ---
 
-### 💻 Real-World Experience Highlights
+## Technical Focus Areas (Priority Order)
 
-- 🗂️ Processed **Thousands of images** and messy real-world datasets  
-- 🛠️ Built **robust pipelines** and optimized model inference for speed and resource efficiency  
-- 🌐 Deployed AI solutions via **APIs, web UIs, and edge devices**  
-- ✅ Wrote **production-ready, testable code** with scalability in mind  
-- 🤝 Collaborated with **cross-functional teams** to turn research prototypes into products  
+### Edge Computer Vision & Edge AI
+- Design and deployment of medicine detection and medical imaging models using **YOLO and MMDetection**
+- Large-scale dataset curation and annotation (25,000+ medical images)
+- Model optimization using **PyTorch → ONNX → TensorRT (FP16)**
+- Performance benchmarking on **NVIDIA Jetson and Raspberry Pi**
+- Low-latency inference through **Python to C++ (OpenCV)** refactoring
 
----
+### Healthcare Systems & LIS Integration
+- Development and maintenance of **Laboratory Information Systems (LIS)**
+- Integration of **30+ medical analyzers** using **ASTM and HL7 protocols**
+- Serial, socket, and file-based analyzer communication
+- Simulator-driven validation without dependency on physical devices
+- Production packaging and deployment using **PyInstaller**
 
-### 🛠 Skills & Tools
-
-**Languages & Frameworks:** Python, SQL, C++, TensorFlow, PyTorch, FastAPI  
-**Libraries & Tools:** Hugging Face, LangChain, OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Docker, ONNX  
-**Models & Platforms:** LLaMA, Mistral, XLM-R, Whisper, YOLO, MMDetection  
-**Deployment & DevOps:** Docker, Hugging Face Spaces, Raspberry Pi, Cloud APIs  
-
----
-
-### 🌟 Featured Projects
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| **YOLO Edge Deployment** | PyTorch, ONNX | Lightweight detection models optimized for low-resource devices |
-| **NLP-to-SQL Translator** | Python, LangChain | Converts natural language queries into database commands |
-| **OCR Lab Automation** | OpenCV, Python | Automates extraction of lab reports from images |
-| **Speech-to-Text + Summary Generator** | Whisper, NLP | Multilingual transcription with real-time summarization |
+### Applied LLMs & NLP
+- Development of **NLP-to-SQL systems** using LLaMA-based models
+- Multilingual text translation and entity extraction pipelines
+- Speech-to-text workflows using **Whisper**
+- Prompt-engineered, schema-aware NLP systems for structured data interaction
 
 ---
 
-### 🧾 Explore My GitHub
+## Professional Experience Highlights
 
-- 📌 AI tools improving **human-machine interaction**  
-- ⚙️ End-to-end **ML systems**: data ingestion → modeling → deployment  
-- 📊 Applied **NLP models** with custom datasets  
-- 📈 Notebooks explaining the "**why**" behind models and experiments  
-
----
-
-### 📫 Connect & Collaborate
-
-Open to **research, AI/ML projects, and production-level challenges**.  
-Let’s build solutions with **real-world impact**.  
-
-📍 India | 🌐 Remote-friendly  
-✉️ solanki.kuldeep@icloud.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/kuldeep-solanki-298614276/)
+- Delivered **22 AI projects**, with **18 successfully completed and deployed**
+- Integrated **30+ laboratory analyzers** into production LIS pipelines
+- Achieved approximately **40% improvement in edge inference performance**
+- Conducted extensive field testing and benchmarking on edge devices
+- Resolved critical production issues involving data integrity, protocol handling, and deployment environments
+- Participated in **technical interviews and evaluations** for AI/ML intern hiring
 
 ---
 
+## Technical Skills
 
-*Thanks for stopping by — let’s create something amazing together! 🚀*
+**Programming Languages**  
+Python, C++
+
+**AI / Machine Learning**  
+PyTorch, TensorFlow, Model Training, Inference Optimization
+
+**Computer Vision & Edge AI**  
+YOLO, MMDetection, OpenCV, ONNX, TensorRT, NVIDIA Jetson, Raspberry Pi
+
+**LLMs & NLP**  
+LLaMA, Mistral, Whisper, Hugging Face, LangChain
+
+**Backend & Deployment**  
+FastAPI, Docker, Linux, Git, MySQL, SQLite, PyInstaller
+
+**Healthcare Systems**  
+Laboratory Information Systems (LIS), ASTM, HL7, Medical Device Integration
+
+---
+
+## Selected Projects
+
+| Project | Technologies | Description |
+|------|-------------|-------------|
+| **Medicine Detection System** | YOLO, ONNX, TensorRT | Real-time detection pipeline optimized for edge deployment |
+| **Laboratory Information System (LIS)** | ASTM, HL7, Python | End-to-end analyzer integration and clinical data ingestion |
+| **NLP-to-SQL Platform** | LLaMA, FastAPI, Gradio | Secure natural language querying with SQL validation |
+| **Speech-to-Text Pipeline** | Whisper, Transformers | Multilingual transcription and entity extraction |
+| **OCR Lab Automation** | OpenCV, Python | Automated extraction of structured laboratory data |
+
+---
+
+## GitHub Repository Overview
+
+This GitHub profile contains:
+- End-to-end AI/ML systems from data ingestion to deployment
+- Applied computer vision and healthcare AI workflows
+- LLM and NLP experiments designed for real-world constraints
+- Performance benchmarking, optimization, and deployment pipelines
+- Well-documented notebooks explaining design and implementation decisions
+
+---
+
+## Contact & Collaboration
+
+I am open to:
+- AI/ML engineering roles
+- Healthcare AI and Edge AI projects
+- Research-to-production system development
+
+**Location:** India (Remote-friendly)  
+**Email:** kuldeepsolanki039@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/kuldeep-solanki-298614276/
+
+---
+
+*Focused on building AI systems that are reliable, performant, and production-ready.*
