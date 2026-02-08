@@ -13,70 +13,70 @@ AI/ML Engineer | Edge Computer Vision • Healthcare Systems • Applied LLMs
 
 ## Professional Summary
 
-I am an **AI/ML Engineer** with hands-on experience designing and deploying **production-grade AI systems** in **healthcare and edge environments**. My work focuses on transforming research prototypes into **reliable, scalable, and performance-optimized solutions** used in real-world clinical and laboratory workflows.
+I am an AI/ML Engineer with hands-on experience designing and deploying production-grade AI systems in healthcare and edge environments. My work focuses on transforming research prototypes into reliable, scalable, and performance-optimized solutions used in real-world clinical and laboratory workflows.
 
 My core expertise spans:
-- **Edge Computer Vision and Detection Systems**
-- **Healthcare Laboratory Information Systems (LIS)**
-- **LLM-powered NLP and Speech Applications**
+- Edge Computer Vision and Detection Systems
+- Healthcare Laboratory Information Systems (LIS)
+- LLM-powered NLP and Speech Applications
 
-Currently, I work at **Artem HealthTech**, contributing to AI systems actively used in **live hospital and laboratory environments**, with an emphasis on performance, system integration, and deployment reliability.
+Currently, I work at Artem HealthTech, contributing to AI systems actively used in live hospital and laboratory environments, with an emphasis on performance, system integration, and deployment reliability.
 
 ---
 
 ## Technical Focus Areas (Priority Order)
 
-### Edge Computer Vision & Edge AI
-- Design and deployment of medicine detection and medical imaging models using **YOLO and MMDetection**
-- Large-scale dataset curation and annotation (25,000+ medical images)
-- Model optimization using **PyTorch → ONNX → TensorRT (FP16)**
-- Performance benchmarking on **NVIDIA Jetson and Raspberry Pi**
-- Low-latency inference through **Python to C++ (OpenCV)** refactoring
+### Edge Computer Vision and Edge AI
+- Design and deployment of medicine detection and medical imaging models using YOLO and MMDetection
+- Large-scale medicine image dataset curation and annotation (25,000+ images)
+- Model optimization using PyTorch to ONNX to TensorRT (FP16)
+- Performance benchmarking on NVIDIA Jetson and Raspberry Pi
+- Low-latency inference through Python to C++ (OpenCV) refactoring
 
-### Healthcare Systems & LIS Integration
-- Development and maintenance of **Laboratory Information Systems (LIS)**
-- Integration of **30+ medical analyzers** using **ASTM and HL7 protocols**
+### Healthcare Systems and LIS Integration
+- Development and maintenance of Laboratory Information Systems (LIS)
+- Integration of 30+ medical analyzers using ASTM and HL7 protocols
 - Serial, socket, and file-based analyzer communication
 - Simulator-driven validation without dependency on physical devices
-- Production packaging and deployment using **PyInstaller**
+- Production packaging and deployment using PyInstaller
 
-### Applied LLMs & NLP
-- Development of **NLP-to-SQL systems** using LLaMA-based models
+### Applied LLMs and NLP
+- Development of NLP-to-SQL systems using LLaMA-based models
 - Multilingual text translation and entity extraction pipelines
-- Speech-to-text workflows using **Whisper**
+- Speech-to-text workflows using Whisper
 - Prompt-engineered, schema-aware NLP systems for structured data interaction
 
 ---
 
 ## Professional Experience Highlights
 
-- Delivered **22 AI projects**, with **18 successfully completed and deployed**
-- Integrated **30+ laboratory analyzers** into production LIS pipelines
-- Achieved approximately **40% improvement in edge inference performance**
+- Executed 22 AI initiatives across detection, healthcare systems, and NLP, with 18 completed and production-ready
+- Integrated 30+ laboratory analyzers into production LIS pipelines
+- Achieved approximately 40 percent improvement in edge inference performance
 - Conducted extensive field testing and benchmarking on edge devices
 - Resolved critical production issues involving data integrity, protocol handling, and deployment environments
-- Participated in **technical interviews and evaluations** for AI/ML intern hiring
+- Participated in technical interviews and evaluations for AI/ML intern hiring
 
 ---
 
 ## Technical Skills
 
-**Programming Languages**  
+Programming Languages  
 Python, C++
 
-**AI / Machine Learning**  
+AI and Machine Learning  
 PyTorch, TensorFlow, Model Training, Inference Optimization
 
-**Computer Vision & Edge AI**  
+Computer Vision and Edge AI  
 YOLO, MMDetection, OpenCV, ONNX, TensorRT, NVIDIA Jetson, Raspberry Pi
 
-**LLMs & NLP**  
+LLMs and NLP  
 LLaMA, Mistral, Whisper, Hugging Face, LangChain
 
-**Backend & Deployment**  
+Backend and Deployment  
 FastAPI, Docker, Linux, Git, MySQL, SQLite, PyInstaller
 
-**Healthcare Systems**  
+Healthcare Systems  
 Laboratory Information Systems (LIS), ASTM, HL7, Medical Device Integration
 
 ---
@@ -85,11 +85,11 @@ Laboratory Information Systems (LIS), ASTM, HL7, Medical Device Integration
 
 | Project | Technologies | Description |
 |------|-------------|-------------|
-| **Medicine Detection System** | YOLO, ONNX, TensorRT | Real-time detection pipeline optimized for edge deployment |
-| **Laboratory Information System (LIS)** | ASTM, HL7, Python | End-to-end analyzer integration and clinical data ingestion |
-| **NLP-to-SQL Platform** | LLaMA, FastAPI, Gradio | Secure natural language querying with SQL validation |
-| **Speech-to-Text Pipeline** | Whisper, Transformers | Multilingual transcription and entity extraction |
-| **OCR Lab Automation** | OpenCV, Python | Automated extraction of structured laboratory data |
+| Medicine Detection System | YOLO, ONNX, TensorRT | Real-time detection pipeline optimized for edge deployment |
+| Laboratory Information System (LIS) | ASTM, HL7, Python | End-to-end analyzer integration and clinical data ingestion |
+| NLP-to-SQL Platform | LLaMA, FastAPI, Gradio | Secure natural language querying with SQL validation |
+| Speech-to-Text Pipeline | Whisper, Transformers | Multilingual transcription and entity extraction |
+| OCR Lab Automation | OpenCV, Python | Automated extraction of structured laboratory data |
 
 ---
 
@@ -104,17 +104,17 @@ This GitHub profile contains:
 
 ---
 
-## Contact & Collaboration
+## Contact and Collaboration
 
 I am open to:
 - AI/ML engineering roles
 - Healthcare AI and Edge AI projects
 - Research-to-production system development
 
-**Location:** India (Remote-friendly)  
-**Email:** kuldeepsolanki039@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/kuldeep-solanki-298614276/
+Location: India (Remote-friendly)  
+Email: kuldeepsolanki039@gmail.com  
+LinkedIn: https://www.linkedin.com/in/kuldeep-solanki-298614276/
 
 ---
 
-*Focused on building AI systems that are reliable, performant, and production-ready.*
+Focused on building AI systems that are reliable, performant, and production-ready.
