@@ -61,22 +61,22 @@ Currently, I work at Artem HealthTech, contributing to AI systems actively used 
 
 ## Technical Skills
 
-Programming Languages  
+**Programming Languages**  
 Python, C++
 
-AI and Machine Learning  
+**AI / Machine Learning**  
 PyTorch, TensorFlow, Model Training, Inference Optimization
 
-Computer Vision and Edge AI  
+**Computer Vision & Edge AI**  
 YOLO, MMDetection, OpenCV, ONNX, TensorRT, NVIDIA Jetson, Raspberry Pi
 
-LLMs and NLP  
+**LLMs & NLP**  
 LLaMA, Mistral, Whisper, Hugging Face, LangChain
 
-Backend and Deployment  
+**Backend & Deployment**  
 FastAPI, Docker, Linux, Git, MySQL, SQLite, PyInstaller
 
-Healthcare Systems  
+**Healthcare Systems**  
 Laboratory Information Systems (LIS), ASTM, HL7, Medical Device Integration
 
 ---
