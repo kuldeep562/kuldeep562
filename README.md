@@ -5,7 +5,7 @@ AI/ML Engineer | Edge Computer Vision &bull; Healthcare Systems &bull; Applied L
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kuldeep-solanki-298614276/" target="_blank">LinkedIn</a> |
-  <a href="mailto:kuldeepsolanki039@gmail.com">Email</a> |
+  <a href="mailto:solanki.kuldeep@icloud.com">Email</a> |
   <a href="https://github.com/kuldeep562/kuldeep562/raw/main/kuldeep_solanki_cv.pdf" target="_blank">CV</a>
 </p>
 
@@ -141,10 +141,12 @@ I am open to:
 - Healthcare AI, Edge AI, and LLM application development
 - Research-to-production system development
 
+<br>
+
 <p align="center">
-Location: India (Remote-friendly) &nbsp;&bull;&nbsp;
-Email: <a href="mailto:solanki.kuldeep@icloud.com">solanki.kuldeep@icloud.com</a> &nbsp;&bull;&nbsp;
-LinkedIn: <a href="https://www.linkedin.com/in/kuldeep-solanki-298614276/">kuldeep-solanki-298614276</a>
+  <strong>Location:</strong> India (Remote-friendly) &nbsp;&bull;&nbsp;
+  <strong>Email:</strong> <a href="mailto:solanki.kuldeep@icloud.com">solanki.kuldeep@icloud.com</a> &nbsp;&bull;&nbsp;
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kuldeep-solanki-298614276/">kuldeep-solanki-298614276</a>
 </p>
 
 ---
